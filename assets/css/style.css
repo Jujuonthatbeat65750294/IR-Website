@@ -1590,22 +1590,20 @@ h6 {
 
 .slider img {
   width: 100px;
-  height: 100px;
- 
+  height: auto;
 }
 
 .slide-track {
   width: 100%;
   display: flex;
   gap: 3em;
-  overflow: hidden;
+  justify-content: space-around;
+ flex-wrap: wrap;
+  align-items: center;
 }
 
 
-@keyframes scroll {
-  0% {transform: translateX(0);}
-  100% {transform: translatex(-1000%)}
-}
+
 
 #sponsorUILO {
   padding: 0 0 60px 0;
