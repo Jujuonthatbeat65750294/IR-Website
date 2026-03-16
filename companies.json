@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Aptis Services",
+    "tier": "gold"
+  },
+  {
+    "name": "Arup (Mauritius) Ltd",
+    "tier": "gold"
+  },
+  {
+    "name": "BDO Solutions",
+    "tier": "gold"
+  },
+  {
+    "name": "Clarity",
+    "tier": "gold"
+  },
+  {
+    "name": "Deloitte",
+    "tier": "gold"
+  },
+  {
+    "name": "HF Markets",
+    "tier": "gold"
+  },
+  {
+    "name": "Rank Interactive",
+    "tier": "gold"
+  },
+  {
+    "name": "Rogers Capital",
+    "tier": "gold"
+  },
+  {
+    "name": "Safyr Utilis",
+    "tier": "gold"
+  },
+  {
+    "name": "SD Worx",
+    "tier": "gold"
+  },
+  {
+    "name": "Aberdeen",
+    "tier": "silver"
+  },
+  {
+    "name": "Business at Work",
+    "tier": "silver"
+  },
+  {
+    "name": "Currimjee Jeewanjee",
+    "tier": "silver"
+  },
+  {
+    "name": "KPMG",
+    "tier": "silver"
+  },
+  {
+    "name": "2Cana Solutions",
+    "tier": "bronze"
+  },
+  {
+    "name": "Accenture",
+    "tier": "bronze"
+  },
+  {
+    "name": "BDO & Co",
+    "tier": "bronze"
+  },
+  {
+    "name": "Checkout",
+    "tier": "bronze"
+  },
+  {
+    "name": "DTOS",
+    "tier": "bronze"
+  },
+  {
+    "name": "Ernst & Young",
+    "tier": "bronze"
+  },
+  {
+    "name": "HealthActiv",
+    "tier": "bronze"
+  },
+  {
+    "name": "IQ-EQ",
+    "tier": "bronze"
+  },
+  {
+    "name": "Mauritius Finance",
+    "tier": "bronze"
+  },
+  {
+    "name": "SIL",
+    "tier": "bronze"
+  },
+  {
+    "name": "Teakworld",
+    "tier": "bronze"
+  },
+  {
+    "name": "Trident Trust",
+    "tier": "bronze"
+  },
+  {
+    "name": "WellDev",
+    "tier": "bronze"
+  },
+  {
+    "name": "Yunit-Magellan Partners",
+    "tier": "bronze"
+  }
+]
